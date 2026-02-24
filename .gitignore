@@ -1,2 +1,16 @@
-# dados grandes locais
+# Dados grandes (não subir no GitHub)
 *.csv
+data/
+
+# Ambiente virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
