@@ -3,6 +3,7 @@ numpy
 matplotlib
 seaborn
 pyarrow
+scikit-learn
 
 # opcional (para rodar o notebook)
 jupyterlab
